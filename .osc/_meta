@@ -1,0 +1,5 @@
+<package name="Fop" project="home:dorbro555">
+  <title>A Command-line interface to ZYpp system management library</title>
+  <description>A wrapper around the Zypper cli-tool which provides dnf-related capabilities</description>
+</package>
+
